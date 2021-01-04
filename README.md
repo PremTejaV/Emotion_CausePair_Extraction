@@ -20,6 +20,7 @@ An overview of our model is given below:
 
 ```
 #### 2.Download pre-trained word vectors [w2v_200.txt](https://github.com/NUSTM/ECPE/blob/master/data_combine/w2v_200.txt) and place it in the root path
+#### I place it in root path, so no need to do it!
 
 #### 3.Run our model
 ```bash
