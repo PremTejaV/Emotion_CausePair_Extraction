@@ -3,8 +3,11 @@ Emotion Cause Pair Extraction
 
 This repository contains the code and dataset of the following paper:
 
-##Model
+## Model
+
 An overview of our model is given below:
+
+![model](/images/model.PNG)
 
 ## Dataset
 * The [Dataset](/datasets/sina) we are using is a publicly available dataset released by [(Xia and Ding 2019)](https://www.aclweb.org/anthology/P19-1096.pdf) [[dataset link](https://github.com/NUSTM/ECPE/tree/master/data_combine)]
